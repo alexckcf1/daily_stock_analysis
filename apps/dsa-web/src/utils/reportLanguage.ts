@@ -40,6 +40,11 @@ const REPORT_TEXT = {
     loadReportFailed: '加载报告失败',
     analysisModel: '分析模型',
     fearGreedIndex: '恐惧贪婪指数',
+    boardLinkage: '板块联动',
+    relatedBoards: '关联板块',
+    leadingBoard: '领涨',
+    laggingBoard: '领跌',
+    neutralBoard: '中性',
   },
   en: {
     keyInsights: 'KEY INSIGHTS',
@@ -77,6 +82,11 @@ const REPORT_TEXT = {
     loadReportFailed: 'Failed to load report',
     analysisModel: 'Model',
     fearGreedIndex: 'Fear & Greed Index',
+    boardLinkage: 'BOARD LINKAGE',
+    relatedBoards: 'Related Boards',
+    leadingBoard: 'Leading',
+    laggingBoard: 'Lagging',
+    neutralBoard: 'Neutral',
   },
 } as const;
 
